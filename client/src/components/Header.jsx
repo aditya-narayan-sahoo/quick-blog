@@ -10,7 +10,7 @@ const Header = () => {
         className="absolute -top-52 left-0 w-full opacity-40 -z-10 pointer-events-none"
       />
 
-      <section className="text-center mt-24 mb-12 max-w-4xl mx-auto">
+      <section className="text-center m-12 max-w-4xl mx-auto">
         <div className="inline-flex items-center gap-3 px-5 py-1.5 mb-6 border border-primary/50 bg-primary/10 rounded-full text-sm text-primary font-medium">
           <p>New: AI features integrated</p>
           <img src={assets.star_icon} alt="Star icon" className="w-3" />
