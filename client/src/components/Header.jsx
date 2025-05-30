@@ -3,7 +3,7 @@ import { MagnifyingGlassIcon } from "@heroicons/react/24/solid";
 
 const Header = () => {
   return (
-    <header className="relative px-6 sm:px-16 xl:px-24 overflow-hidden">
+    <header className="relative px-5 sm:px-10 xl:px-20 overflow-hidden">
       <img
         src={assets.gradientBackground}
         alt="Decorative gradient background"
