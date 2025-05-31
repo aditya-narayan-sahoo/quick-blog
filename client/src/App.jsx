@@ -1,4 +1,5 @@
 import { Routes, Route } from "react-router";
+import "quill/dist/quill.snow.css";
 
 import Home from "./pages/Home";
 import Blog from "./pages/Blog";
